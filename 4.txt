@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this file is in test branch
+=======
+this file is in master branch
+>>>>>>> master
 
